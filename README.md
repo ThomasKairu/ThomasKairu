@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ThomasKairu a Fullstack software developmer student at Strathmore University. My curiosity draws me towards all things that make applications, websites and softwares tick
+- 👋 Hi, I’m ThomasKairu a Fullstack software developer student at Strathmore University. My curiosity draws me towards all things that make applications, websites and softwares tick
 - 👀 I’m interested in: Building intuitive and accessible web applications that empower users,
 - Delving into the fascinating world of artificial intelligence and machine learning, unlocking its potential for problem-solving.
 - Mastering the art of elegant and efficient code, prioritizing maintainability and readability.
