@@ -8,7 +8,7 @@
 - Collaborative projects with fellow developers to tackle meaningful challenges and exchange ideas.
 - Mentorship opportunities from experienced developers to gain valuable insights and guidance.
 - 📫 How to reach me: Feel free to connect with me on [tmuchomba@gmail.com]!
-- 😄 Pronouns: He/They/them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm constantly learning and growing, just like you!
 <!---
 ThomasKairu/ThomasKairu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
