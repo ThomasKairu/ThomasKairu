@@ -20,7 +20,6 @@ Area of specialization:
 ● API's
 
 See My work: https://thomaskairu.github.io/  or 
-https://moviestreamapp.onrender.com 
 
 
 
