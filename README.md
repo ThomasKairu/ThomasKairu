@@ -19,7 +19,7 @@ Area of specialization:
 ● MYSQL
 ● API's
 
-See My work: https://thomaskairu.github.io/  or 
+See My work:    
 
 
 
