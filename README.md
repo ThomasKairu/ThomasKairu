@@ -12,6 +12,12 @@ Area of specialization:
 ● JAVASCRIPT
 ● VUE.JS
 ● PHP
+● PYTHON
+● REACT
+● AWS
+● PostgreSQL
+● MongoDB
+● SQLite
 ● LARAVEL
 ● DART
 ● FLUTTER
@@ -19,7 +25,7 @@ Area of specialization:
 ● MYSQL
 ● API's
 
-See My work:    
+See My work:    https://thomaskairu.github.io/
 
 
 
