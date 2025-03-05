@@ -26,6 +26,7 @@ Area of specialization:
 ● API's
 
 See My work:    https://thomaskairu.github.io/
+https://thomaskairu.github.io/academic-tech-project/
 
 
 
