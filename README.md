@@ -25,8 +25,8 @@ Area of specialization:
 ● MYSQL
 ● API's
 
-See My work:    https://thomaskairu.github.io/
-https://thomaskairu.github.io/academic-tech-project/
+See My work:   [(https://www.jobix.publicvm.com/)(https://www.pulsenews.publicvm.com/)]
+
 
 
 
