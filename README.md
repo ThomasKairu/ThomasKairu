@@ -25,7 +25,7 @@ Area of specialization:
 ● MYSQL
 ● API's
 
-See My work:   [(https://www.jobix.publicvm.com/)([https://www.pulsenews.publicvm.com/](https://airnet.pages.dev/))(https://www.bridges.linkpc.net/)(https://www.glows.work.gd/)]
+See My work:   [(https://www.jobix.publicvm.com/)(https://airnet.pages.dev/)(https://www.bridges.linkpc.net/)(https://www.glows.work.gd/)]
 
 
 
