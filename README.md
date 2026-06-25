@@ -16,8 +16,6 @@ I build reviewable software systems that run cleanly in isolated Unix containers
 
 ## Pinned Portfolio Repositories
 
-Pin exactly these repositories for the strongest evaluator-facing profile:
-
 ### 1. [`caseflow-fullstack-platform`](https://github.com/ThomasKairu/caseflow-fullstack-platform)
 A full-stack review platform with FastAPI, PostgreSQL-ready SQLAlchemy models, React/TypeScript UI, JWT auth, centralized error handling, `.env.example`, Docker Compose, and PyTest coverage for auth, ownership, and deterministic evaluation scoring.
 
@@ -68,6 +66,4 @@ pytest -q
 
 I am deepening my full-stack engineering portfolio around AI-evaluation workflows: secure APIs, Dockerized Unix execution, command-line automation, and automated grading/test harnesses.
 
----
 
-**GitHub bio to use:** Full-Stack Software Engineer specializing in scalable Python/TypeScript backends, Dockerized Unix environments, and deterministic test automation.
